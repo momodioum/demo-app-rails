@@ -1,0 +1,48 @@
+[33mcommit ff05789b21b692d330f764cbe7d5aa6e59462524[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: e23853b 5cc720f
+Author: Mohamed Dioum <momodioum10@gmail.com>
+Date:   Wed Sep 23 13:43:03 2020 +0000
+
+    Merge branch 'add-how-it-works-page'
+
+[33mcommit e23853b458e96bd3707b1eeb05b28fb7de65f42a[m
+Author: Mohamed Dioum <momodioum10@gmail.com>
+Date:   Wed Sep 23 13:41:49 2020 +0000
+
+    Fix typo in homepage
+
+[33mcommit 5cc720f0e18f038054fbcbff864db8140df60d43[m[33m ([m[1;32madd-how-it-works-page[m[33m)[m
+Author: Mohamed Dioum <momodioum10@gmail.com>
+Date:   Wed Sep 23 13:38:48 2020 +0000
+
+    Add how it works page
+
+[33mcommit 5b833f316e279941767a583da32a7f2a91702d3e[m
+Author: Mohamed Dioum <momodioum10@gmail.com>
+Date:   Wed Sep 23 13:29:13 2020 +0000
+
+    Add contact page
+
+[33mcommit d1062137525b3a6f75b17ad4cb65483e206e400d[m
+Author: Mohamed Dioum <momodioum10@gmail.com>
+Date:   Tue Sep 22 23:36:17 2020 +0000
+
+    Add home, about and help pages
+
+[33mcommit 6bfc8725152a38793c71c3384988e9224fe8b69f[m
+Author: Mohamed Dioum <momodioum10@gmail.com>
+Date:   Tue Sep 22 23:19:04 2020 +0000
+
+    Move home page stuff to PagesController
+
+[33mcommit 8e20366199a7070e5c31fc4440a4af63226dc323[m
+Author: Mohamed Dioum <momodioum10@gmail.com>
+Date:   Tue Sep 22 23:13:01 2020 +0000
+
+    Add HomePage
+
+[33mcommit 930bceddbb24e524f788fddf12ce077235452fa1[m
+Author: Mohamed Dioum <momodioum10@gmail.com>
+Date:   Tue Sep 22 20:02:45 2020 +0000
+
+    Initial commit
